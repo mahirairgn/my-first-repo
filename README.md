@@ -5,3 +5,5 @@ NPM     : 2206027375
 Kelas   : PBP E
 
 Hobi    : Tidur
+
+Jurusan : Sistem Informasi
